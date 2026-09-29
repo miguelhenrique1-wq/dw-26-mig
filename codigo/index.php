@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="cad_usuario">Cadastrar</a><br>
-    <a href="longui"
+    <a href="cadastrar_usuario.php">Cadastrar</a><br>
+    <a href="login.php">fazer login</a>
+
 </body>
 </html>
